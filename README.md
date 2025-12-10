@@ -36,9 +36,9 @@ Aplicación moderna de cámara y galería desarrollada nativamente para Android 
 
 ## 📸 Capturas de Pantalla
 
-| Cámara (Permisos) | Captura | Galería | Detalle |
-|:---:|:---:|:---:|:---:|
-| ![Permisos](screenshots/) | ![Cámara](screenshots/camara.png) | ![Galería](screenshots/galeria.png) | ![Detalle](screenshots/detalle.png) |
+|           Cámara (Permisos)           |                   Captura                    |               Galería               |                    Detalle                     |
+|:-------------------------------------:|:--------------------------------------------:|:-----------------------------------:|:----------------------------------------------:|
+| ![Permisos](screenshots/permisos.jpg) | ![Cámara](screenshots/camara_horizontal.jpg) | ![Galería](screenshots/galeria.jpg) | ![Detalle](screenshots/desliz_eliminacion.jpg) |
 
 ## 👤 Autor
 
